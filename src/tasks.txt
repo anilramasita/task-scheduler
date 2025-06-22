@@ -1,1 +1,8 @@
 // Store the data in JSON format.
+[
+    {
+        "id": "6857e8849cfc7",
+        "name": "learn dsa",
+        "completed": false
+    }
+]
