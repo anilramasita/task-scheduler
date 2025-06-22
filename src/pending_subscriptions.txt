@@ -1,1 +1,7 @@
 // Store the data in JSON format. -- Single entry format : { email: { code: 'xxxxx' } }
+{
+    "anilramasita@gmail.com": {
+        "code": "288016",
+        "timestamp": 1750591841
+    }
+}
